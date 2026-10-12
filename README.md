@@ -476,6 +476,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 - [TaskFavour](https://www.taskfavour.com/) - AI-powered job search and alert platform for freelance, remote, and full-time opportunities.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [NewJob](https://newjob.tech) - US tech and startup job search with about 80,000 live roles pulled from official company career pages (Greenhouse, Lever, Ashby and more), with salary, remote, tech-stack and funding-stage filters, plus roles whose job description offers visa sponsorship.
 
 ## Entry Level
 
